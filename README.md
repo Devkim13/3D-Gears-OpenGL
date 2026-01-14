@@ -6,8 +6,10 @@ It visualizes **three interlocking gears** with different sizes, thicknesses, an
 ---
 ## 📸 Screenshots
 
-![3D Gears View](assets/Gears2.png)
-![Wireframe Mode](assets/Gears1.png)
+<p align="center">
+  <img src="assets/Gears2.png" alt="3D Gears View" width="45%" />
+  <img src="assets/Gears1.png" alt="Wireframe Mode" width="45%" />
+</p>
 
 ---
 
