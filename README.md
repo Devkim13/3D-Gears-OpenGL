@@ -1,6 +1,6 @@
 # ⚙️ 3D Gears Simulation – OpenGL / C++
 
-This project is an **interactive 3D simulation of mechanical gears**, developed in **C++ using OpenGL and GLFW**.
+This project is an **interactive 3D simulation of mechanical gears**, developed in **C++ using OpenGL and GLFW**.  
 It visualizes **three interlocking gears** with different sizes, thicknesses, and rotation ratios, reproducing a realistic mechanical behavior.
 
 ---
@@ -130,11 +130,12 @@ angular_speed ∝ 1 / number_of_teeth
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Your Name**
-🎓 Computer Science – Computer Graphics
-📚 Academic OpenGL Project
+**Abdelhakim NAHILI & Walid KESBI**  
+🎓 Computer Graphics  
+📚 Academic OpenGL project  
+@2026  
 
 ---
 
