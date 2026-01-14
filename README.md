@@ -95,7 +95,7 @@ make all
 ### Run
 
 ```bash
-./3D-Gears
+./3D_Gears
 ```
 
 ### Clean build files
