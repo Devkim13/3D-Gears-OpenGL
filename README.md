@@ -81,19 +81,19 @@ sudo apt install libglfw3-dev libgl1-mesa-dev
 ### Compile
 
 ```bash
-make
+make all
 ```
 
 ### Run
 
 ```bash
-./main
+./3D-Gears
 ```
 
 ### Clean build files
 
 ```bash
-make clean
+make clean all
 ```
 
 ---
