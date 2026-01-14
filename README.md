@@ -4,6 +4,12 @@ This project is an **interactive 3D simulation of mechanical gears**, developed 
 It visualizes **three interlocking gears** with different sizes, thicknesses, and rotation ratios, reproducing a realistic mechanical behavior.
 
 ---
+## 📸 Screenshots
+
+![3D Gears View](assets/Gears2.png)
+![Wireframe Mode](assets/Gears1.png)
+
+---
 
 ## ✨ Features
 
